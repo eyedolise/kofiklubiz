@@ -1,0 +1,18 @@
+
+User-agent: *
+Allow: /
+Crawl-delay: 1
+Sitemap: https://eyedolise.github.io/chromescreenrecord/sitemap.xml
+
+# GitHub-specific exclusions
+Disallow: /.github/
+Disallow: /node_modules/
+Disallow: /vendor/
+Disallow: /*.md$
+Disallow: /*.json$
+Disallow: /*.lock$
+
+# Business info
+# ScreenCapture Pro - 17 Professional Screen Recording Solutions
+# Contact: nlcgpt1@gmail.com | (868) 278-0240
+# Last Updated: 2025-12-19
